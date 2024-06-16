@@ -1,0 +1,104 @@
+{
+    "Hero": {
+        "subtitle": "We help dig at the past",
+        "description": "We are a consultancy that helps companies in the digital future to find solutions.",
+        "button_contact": "Contacts",
+        "button_read_more": "Läs mer"
+    },
+    "Navbar": {
+        "links": {
+            "about": "We are here",
+            "why_us": "Why us",
+            "contact": "Contacts"
+        }
+    },
+    "About": {
+        "title": "Vilka is the best thing we can do for you?",
+        "subtitle": "We are a team of professionals who are passionate about our work. We focus on safety and integrity in order to provide our customers with the best service.",
+        "subsubtitle": "We need to hit the tree of our core concept that we focus on.",
+        "cards": {
+            "cloud": {
+                "title": "Cloud",
+                "description": "Cloud can be difficult and frustrating. We make it easy and easy to dig to distribute applications securely and quickly to the Internet."
+            },
+            "pentesting": {
+                "title": "The following table shows the results of the tests:",
+                "description": "We offer a number of services to ensure that your websites are secure."
+            },
+            "security": {
+                "title": "Security",
+                "description": "The use of data is a priority, and the availability and integrity of the data is our highest priority."
+            }
+        },
+        "button_learn_more": "Läs mer"
+    },
+    "WhyUs": {
+        "title": "Why do we have to go out?",
+        "cards": {
+            "personal_innovation": {
+                "title": "Innovation in the field of personal",
+                "description": "Our advanced solutions are designed for the development of your enterprise and provide you with a more flexible alternative to the excavation."
+            },
+            "expertise": {
+                "title": "The Commission shall adopt the following measures:",
+                "description": "Our team consists of experienced professionals with many years of industry experience, which guarantees high quality and reliability in each project."
+            },
+            "agile": {
+                "title": "Agil development process",
+                "description": "Our agile methodology ensures quick leverage and ability to adapt to rapid changes, which keeps your project on track and running."
+            },
+            "security": {
+                "title": "The following is the list of the countries of the European Union:",
+                "description": "We shall prioritize the security of data with advanced protection protocols, which ensures that your information is secure and protected."
+            }
+        }
+    },
+    "Contact": {
+        "form_contact": {
+            "title": "Contacts",
+            "description": "Do you have any questions or do you want to know more about our services?",
+            "email": "E-mail",
+            "email_placeholder": "exampel@qbera.se",
+            "subject": "I am",
+            "subject_placeholder": "I am",
+            "message": "The Commission shall adopt the following:",
+            "message_placeholder": "Write your message here",
+            "button_submit": "The following:"
+        },
+        "form_phone": {
+            "title": "Ring back",
+            "description": "I'll call your phone number and I'll call you up as soon as possible.",
+            "phone": "Telephone number",
+            "phone_lable": "Write in your phone number here",
+            "phone_placeholder": "The Commission shall adopt a decision on the",
+            "button_submit": "Ring up my"
+        }
+    },
+    "FAQ": {
+        "title": "The Commission",
+        "description": "There are some common questions which we get and their answers.",
+        "button_read_more": "Läs mer",
+        "questions": {
+            "hourly-rate": {
+                "question": "What is the time prize for era services?",
+                "answer": "Our basic price is $120/hour. We also offer fixed prices for the project. If you are interested in a fast price, please contact us for an offer."
+            },
+            "already-have-site": {
+                "question": "I already have a website, can I still use the services of the era?",
+                "answer": "We can help you explore the best websites, we can help you with testing, security and implementation."
+            },
+            "simple-issue": {
+                "question": "I just want to fix a problem, can you help me?",
+                "answer": "It is up to us to assess that the problem is for the simple and outside our scope we will not be able to help you."
+            },
+            "deploy-site": {
+                "question": "How quickly can I implement my website on the Internet?",
+                "answer": "It is up to the men of an orderly structure to be on the places where we can implement the websites in a few hours, otherwise it can be in a few days."
+            }
+        }
+    },
+    "Footer": {
+        "description": "We are a consultancy that helps companies in the digital future to find solutions.",
+        "copy_right": "All rights for the family"
+    }
+}

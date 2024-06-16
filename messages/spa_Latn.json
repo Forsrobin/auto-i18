@@ -1,0 +1,104 @@
+{
+    "Hero": {
+        "subtitle": "Vi ayudar a excavar en el pasado",
+        "description": "Somos una empresa consultiva que ayuda a las empresas en el futuro de las soluciones digitales.",
+        "button_contact": "Contacta oss",
+        "button_read_more": "Las más"
+    },
+    "Navbar": {
+        "links": {
+            "about": "¿Qué es eso?",
+            "why_us": "¿Por qué no?",
+            "contact": "Contacta"
+        }
+    },
+    "About": {
+        "title": "¿Villa es lo mejor que podemos hacer para ti?",
+        "subtitle": "En QBera somos un equipo de profesionales que se apasionan por lo que hacemos.",
+        "subsubtitle": "No quiero golpear el árbol de nuestro concepto de núcleo en el que me enfoque.",
+        "cards": {
+            "cloud": {
+                "title": "Nube",
+                "description": "La nube puede ser difícil y frustrante."
+            },
+            "pentesting": {
+                "title": "Pruebas de peso",
+                "description": "En la construcción de sitios web puede ser fácil, los hombres pueden estar seguros de que es una historia completa."
+            },
+            "security": {
+                "title": "Seguridad",
+                "description": "La integridad y la disponibilidad de los usuarios son nuestra máxima prioridad."
+            }
+        },
+        "button_learn_more": "Las más"
+    },
+    "WhyUs": {
+        "title": "¿Por qué nos has elegido?",
+        "cards": {
+            "personal_innovation": {
+                "title": "Innovación personal",
+                "description": "Nuestras soluciones de avanzada están diseñadas para el desarrollo de empresas y ofrecer una mayor escala y una alternativa flexible a la excavación."
+            },
+            "expertise": {
+                "title": "Expertos en el sector de la pesca",
+                "description": "Nuestro equipo está formado por profesionales experimentados con muchos años de experiencia en la industria, lo que garantiza la alta calidad y la fiabilidad de cada proyecto."
+            },
+            "agile": {
+                "title": "Proceso de desarrollo de la empresa Agil",
+                "description": "Nuestra metodología ágil asegura que el apalancamiento rápido y la capacidad de hacer avances rápidos, lo que mantiene su proyecto en el buen plazo."
+            },
+            "security": {
+                "title": "Säkerhet och Efterlevnad (Segretario y después de la muerte)",
+                "description": "La seguridad de los datos se priorizará con el protocolo de protección avanzado, lo que garantizará que la información sea segura y protegida."
+            }
+        }
+    },
+    "Contact": {
+        "form_contact": {
+            "title": "Contacta oss",
+            "description": "¿Tiene alguna pregunta o quiere saber más acerca de nuestros servicios?",
+            "email": "Por correo electrónico",
+            "email_placeholder": "exampel@qbera.se",
+            "subject": "El mismo",
+            "subject_placeholder": "El mismo",
+            "message": "El nombre de la empresa",
+            "message_placeholder": "Escriba su mensaje aquí",
+            "button_submit": "Skicka"
+        },
+        "form_phone": {
+            "title": "El anillo de vuelta",
+            "description": "Lämna tu número de teléfono para que te llame y te subiremos lo antes posible.",
+            "phone": "Número de teléfono",
+            "phone_lable": "Escriba en su número de teléfono aquí",
+            "phone_placeholder": "070-123 45 67",
+            "button_submit": "Me lo dijeron."
+        }
+    },
+    "FAQ": {
+        "title": "Cuestiones de la liga",
+        "description": "En el caso de las preguntas que se hacen en el momento de la presentación de las propuestas, se trata de una serie de preguntas que se plantean en el momento de la presentación de las propuestas.",
+        "button_read_more": "Las más",
+        "questions": {
+            "hourly-rate": {
+                "question": "¿Qué es el precio de la era de servicios?",
+                "answer": "Nuestro precio de base es de 120 dólares por hora. También ofrecemos precios fijos para el proyecto. Si está interesado en un precio rápido, por favor póngase en contacto con nosotros para obtener una oferta."
+            },
+            "already-have-site": {
+                "question": "Ya tengo sitios web, ¿puedo todavía usar los servicios de la era?",
+                "answer": "¡Absolutamente! Podemos ayudar a explorar los sitios web de la Fintliga."
+            },
+            "simple-issue": {
+                "question": "Sólo quiero resolver un problema, ¿puedes ayudarme?",
+                "answer": "Es necesario que si evaluamos el problema en el que estamos o fuera de nuestro ámbito no podamos ayudarle."
+            },
+            "deploy-site": {
+                "question": "¿Cómo puedo implementar rápidamente mi sitio web en Molnet?",
+                "answer": "En el caso de las estructuras ordinarias, los hombres pueden implementar sus sitios web en unos pocos días, o bien en unos pocos días."
+            }
+        }
+    },
+    "Footer": {
+        "description": "Somos una empresa consultiva que ayuda a las empresas en el futuro de las soluciones digitales.",
+        "copy_right": "Todos los derechos para la protección"
+    }
+}

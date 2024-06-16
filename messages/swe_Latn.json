@@ -1,0 +1,110 @@
+{
+  "Hero": {
+    "subtitle": "Vi hjälper dig att bygga din framtid",
+    "description": "Vi är ett konsultbolag som hjälper företag att bygga framtidens digitala lösningar. Vi är specialister på att skapa webbplatser, appar och system som hjälper dig att nå dina affärsmål.",
+    "button_contact": "Kontakta oss",
+    "button_read_more": "Läs mer"
+  },
+  "Navbar": {
+    "links": {
+      "about": "Om oss",
+      "why_us": "Varför oss",
+      "contact": "Kontakta"
+    }
+  },
+  "About": {
+    "title": "Vilka är vi och vad kan vi göra för dig?",
+    "subtitle": "Vi på QBera är ett team av professionella som är passionerade över det vi gör. Med stort fokus på säkerhet och integritet strävar vi efter att ge våra kunder den bästa servicen.",
+    "subsubtitle": "Nedanför hittar du tre av våra kärnkoncept som vi fokuserar på.",
+    "cards": {
+      "cloud": {
+        "title": "Cloud",
+        "description": "Cloud kan vara svårt och frustrerande. Vi gör det enkelt och smidigt för dig att distribuera dina applikationer säkert och snabbt till molnet."
+      },
+      "pentesting": {
+        "title": "Pentesting",
+        "description": "Att bygga en webbplats kan vara enkelt, men att säkra den är en helt annan historia. Vi erbjuder pentestingtjänster för att säkerställa att din webbplats är säker"
+      },
+      "security": {
+        "title": "Security",
+        "description": "Användarintegritet och tillgänglighet är vår högsta prioritet. Vi ser till att dina data är säkra och skyddade från potentiella hot."
+      }
+    },
+    "button_learn_more": "Läs mer"
+  },
+  "WhyUs": {
+    "title": "Varför välja oss",
+    "cards": {
+      "personal_innovation": {
+        "title": "Personlig Innovation",
+        "description": "Våra anpassade lösningar är designade för att utvecklas med ditt företag och erbjuder skalbara och flexibla alternativ som växer med dig."
+      },
+      "expertise": {
+        "title": "Expertis Du Kan Lita På",
+        "description": "Vårt team består av erfarna yrkesverksamma med många års branscherfarenhet, vilket garanterar högsta kvalitet och pålitlighet i varje projekt."
+      },
+      "agile": {
+        "title": "Agil Utvecklingsprocess",
+        "description": "Vår agila metodik säkerställer snabb leverans och förmågan att anpassa sig till förändringar snabbt, vilket håller ditt projekt på rätt spår och i tid."
+      },
+      "security": {
+        "title": "Säkerhet och Efterlevnad",
+        "description": "Vi prioriterar säkerheten för dina data med avancerade skyddsprotokoll, vilket säkerställer att din information är säker och skyddad."
+      }
+    }
+  },
+  "Contact": {
+    "form_contact": {
+      "title": "Kontakta oss",
+      "description": "Har du några frågor eller vill du veta mer om våra tjänster? Tveka inte att kontakta oss!",
+
+      "email": "E-post",
+      "email_placeholder": "exampel@qbera.se",
+
+      "subject": "Ämne",
+      "subject_placeholder": "Ämne",
+
+      "message": "Meddelande",
+      "message_placeholder": "Skriv ditt meddelande här",
+
+      "button_submit": "Skicka"
+    },
+    "form_phone": {
+      "title": "Ring tillbaka",
+      "description": "Lämna ditt telefonnummer så ringer vi upp dig så snart som möjligt.",
+
+      "phone": "Telefonnummer",
+      "phone_lable": "Skriv in ditt telefonnummer här",
+      "phone_placeholder": "070-123 45 67",
+
+      "button_submit": "Ring upp mig"
+    }
+  },
+  "FAQ": {
+    "title": "Vanliga frågor",
+    "description": "Här är några vanliga frågor som vi får och deras svar. Om du har några andra frågor, tveka inte att kontakta oss.",
+    "button_read_more": "Läs mer",
+    "questions": {
+      "hourly-rate": {
+        "question": "Vad är timpriset för era tjänster?",
+        "answer": "Vårt grundtimpris är $120/timme. Vi erbjuder också fasta priser för projekt. Om du är intresserad av ett fast pris, vänligen kontakta oss för en offert."
+      },
+      "already-have-site": {
+        "question": "Jag har redan en webbplats, kan jag fortfarande använda era tjänster?",
+        "answer": "Absolut! Vi kan hjälpa dig med din befintliga webbplats. Vi kan bistå med pentesting, säkerhet och implementering."
+      },
+      "simple-issue": {
+        "question": "Jag vill bara fixa ett enkelt problem, kan ni hjälpa mig?",
+        "answer": "Det beror på. Om vi bedömer att problemet är för enkelt och utanför vår omfattning kommer vi inte kunna hjälpa dig. Men om det ligger inom vår omfattning, kommer vi mer än gärna att hjälpa dig."
+      },
+      "deploy-site": {
+        "question": "Hur snabbt kan ni implementera min webbplats i molnet?",
+        "answer": "Det beror på, men om en ordentlig struktur är på plats kan vi implementera din webbplats på några timmar, annars kan det ta några dagar."
+      }
+    }
+  },
+  "Footer": {
+    "description": "Vi är ett konsultbolag som hjälper företag att bygga framtidens digitala lösningar. Vi är specialister på att skapa webbplatser, appar och system som hjälper dig att nå dina affärsmål.",
+    "copy_right": "Alla rättigheter förbehållna"
+  }
+}

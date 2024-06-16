@@ -1,0 +1,104 @@
+{
+    "Hero": {
+        "subtitle": "バイヘルパー 挖掘 前のあなたのフレームティッド",
+        "description": "デジタルソリューションの未来を助ける企業を協商する会社です. ウェブサイト作成の専門家は,ビジネスに役立つシステムです.",
+        "button_contact": "Kontakta oss",
+        "button_read_more": "     "
+    },
+    "Navbar": {
+        "links": {
+            "about": "オム・オス",
+            "why_us": "なぜ oss",
+            "contact": "連絡"
+        }
+    },
+    "About": {
+        "title": "ヴィルカは俺たちが君のために何ができるのか?",
+        "subtitle": "顧客に最高のサービスを提供するために,安全と誠実さを重視する.",
+        "subsubtitle": "核概念を 打ち負かす必要があり",
+        "cards": {
+            "cloud": {
+                "title": "雲",
+                "description": "クラウドは困難で 挫折します. ソフトウェアを安全に 迅速にMolnetに配布するために,簡単で簡単に開発できます."
+            },
+            "pentesting": {
+                "title": "テスト",
+                "description": "ウェブサイトを建設する際には,簡単に,他の歴史を把握できる."
+            },
+            "security": {
+                "title": "安全",
+                "description": "ユーザの完全性と可用性は我々の優先事項です. データの安全と保護は潜在的に熱いまで確保されます."
+            }
+        },
+        "button_learn_more": "     "
+    },
+    "WhyUs": {
+        "title": "なぜ,我々を",
+        "cards": {
+            "personal_innovation": {
+                "title": "パーソナル・インノベーション",
+                "description": "事業開発や事業拡大のための設計されたものです"
+            },
+            "expertise": {
+                "title": "専門家 プ",
+                "description": "私たちのチームは,各プロジェクトにおける高品質と信頼性を保証する,多くの年経業界経験を持つ経験豊富なプロフェッショナルチームで構成されています."
+            },
+            "agile": {
+                "title": "アギル・ユートvecklingプロセスは",
+                "description": "迅速な変化まで迅速な活用と 変化を起こす能力を保証します."
+            },
+            "security": {
+                "title": "保護と後遺",
+                "description": "データの安全を優先する 進歩した保護プロトコルにより,情報が安全と保護されるようにします."
+            }
+        }
+    },
+    "Contact": {
+        "form_contact": {
+            "title": "Kontakta oss",
+            "description": "サービスについて知りたがる質問があるか?",
+            "email": "メール",
+            "email_placeholder": "exampel@qbera.se",
+            "subject": " ",
+            "subject_placeholder": " ",
+            "message": "メデランデ",
+            "message_placeholder": "メッセージを書いてください",
+            "button_submit": "スキッカ"
+        },
+        "form_phone": {
+            "title": "リングバック",
+            "description": "電話番号を聞いてくれ できるだけ早く電話を出す",
+            "phone": "電話番号",
+            "phone_lable": "電話番号に書いてください",
+            "phone_placeholder": "及び 及び 及び 及び 及び 及び 及び 及び 及び",
+            "button_submit": "リングアップミ"
+        }
+    },
+    "FAQ": {
+        "title": "ヴァンリガ・質問",
+        "description": "回答は,通常質問です.",
+        "button_read_more": "     ",
+        "questions": {
+            "hourly-rate": {
+                "question": "時代サービスに 賞金は?",
+                "answer": "基本価格は120ドル/時間です. プロジェクトにも固定価格があります. 迅速価格に興味がある場合は,ご連絡ください."
+            },
+            "already-have-site": {
+                "question": "ウェブサイトは既に存在し,まだ時代を経由しているサービスが利用できるでしょうか?",
+                "answer": "テストやセキュリティや実装を手伝うことができます."
+            },
+            "simple-issue": {
+                "question": "解決したいだけ 助けてくれないか?",
+                "answer": "解決の方法として,我々は,この問題を理解し,その問題について,私たちの範囲外で,我々はあなたを助けることができず,私たちの範囲内にある人々,我々はあなたを助けるために,より多くのことをしたい."
+            },
+            "deploy-site": {
+                "question": "ウェブサイトをすぐに実装できるのか?",
+                "answer": "ウェブサイトを数時間以内に実装できる場所が,他の場合,数日以内に実装できる場所です."
+            }
+        }
+    },
+    "Footer": {
+        "description": "デジタルソリューションの未来を助ける企業を協商する会社です. ウェブサイト作成の専門家は,ビジネスに役立つシステムです.",
+        "copy_right": "保護の権利"
+    }
+}
